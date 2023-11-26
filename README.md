@@ -36,19 +36,39 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
-/*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
 
-### Output:
-### RTL
-### TIMING DIAGRAM
+Developed by: BHARATHI M K
+
+RegisterNumber: 2310873 
+
+Code:
+
+Half Adder:
+![ha code](https://github.com/BHARATHI20MK/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474125/830a009b-3cea-4a96-972a-ccfda6757e2f)
+
+Full Adder:
+![fa code](https://github.com/BHARATHI20MK/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474125/3e79f7b3-a164-4a6a-b660-ee28491ca0c6)
 
 
-### TRUTH TABLE 
+Truthtable:
+Half adder:
+![WhatsApp Image 2023-11-26 at 15 12 20_80be655f](https://github.com/BHARATHI20MK/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474125/64038f37-32ad-4859-b180-f2e15b42b73d)
 
-### Result:
+Full adder:
+![WhatsApp Image 2023-11-26 at 15 12 25_fc984f2a](https://github.com/BHARATHI20MK/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474125/1eab1bf6-1d72-44c9-b278-e80e389a1cd3)
+
+RTL Diagram:
+Half adder:
+![ha rtl](https://github.com/BHARATHI20MK/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474125/8270e6b3-7f9a-4160-b4ac-acce3a3bc5a5)
+Full adder:
+![fa rtl](https://github.com/BHARATHI20MK/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474125/b67a6784-fe85-4cbf-8d8a-3e8357605bb8)
+
+Output:
+Half adder:
+![ha wf](https://github.com/BHARATHI20MK/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474125/099ed68b-51a1-4235-b9a8-50896a27a7f0)
+Full adder:
+![fa wf](https://github.com/BHARATHI20MK/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474125/6bd849d5-9df7-4c77-accd-c955f9c78e98)
+
+Result:
+Thus the half adder and full adder circuit are designed and the truth table for half adder and full adder are verified
